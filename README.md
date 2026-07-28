@@ -34,7 +34,25 @@ PHP is used for server-side functionality, while MySQL is used to store and mana
 
 ## Screenshots
 
-Screenshots showcasing the project interface will be added to this repository.
+## Screenshots
+
+### EduTech Homepage
+
+![EduTech Homepage](screenshots/Home.jpg)
+
+### Student Registration
+
+![Student Registration](screenshots/Registration.jpg)
+
+### Result
+
+![Result](screenshots/Result.jpg)
+
+### Attendance
+
+![Attendance](screenshots/Attendance.jpg)
+
+More screenshots showcasing the project interface are available in the `screenshots` folder.
 
 ## How to Run the Project
 
